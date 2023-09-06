@@ -10,4 +10,4 @@ my client wished to gain further insight into clinical trials. I was tasked with
 4. Find the 10 most common sponsors that are not pharmaceutical companies, alongwith the number of clinical trials they have sponsored. the Parent Company column contains allpossible pharmaceutical companies.
 5. Plot number of completed studies each month in a given year – for the submission dataset, the year is 2021. You need to include your visualization as well as a tableof all the values you have plotted for each month
 
-The qustions were answered once in Spark SQL and twice in PySpark RDD and DataFrame
+The qustions were answered using three different implementations: Spark SQL, PySpark RDD and DataFrame
